@@ -10,7 +10,7 @@ GitHub Pages as a static HTML file.
 
 | Application | Privacy Policy |
 |---|---|
-| Su İçme Hatırlatıcı | [View](https://mustafatemur.github.io/privacy-policies/qr-barkod-okuyucu.html) |
+| QR Barkod Okuyucu | [View](https://mustafatemur.github.io/privacy-policies/qr-barkod-okuyucu.html) |
 
 ## 🌐 Base URL
 https://mustafatemur.github.io/privacy-policies/
